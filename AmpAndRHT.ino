@@ -40,8 +40,8 @@ IPAddress ip(192,168,1, 177);
 #endif
 
 // Your Xively key to let you upload data
-char xivelyKey[] = "sRnw8yFV0oIDOWYTh0OeR0dGYslIXYbKmUm3ZvAMvqaMOqcT";
-#define FEED_ID 397908926
+char xivelyKey[] = "";
+#define FEED_ID 
 
 // Define the strings for our datastream IDs
 char humidity1Stream[] = "humidity1";

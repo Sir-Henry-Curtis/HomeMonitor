@@ -52,8 +52,8 @@ class Gmail():
 
 class HomeMonitor():
     def __init__(self):
-        self.XIVELY_API_KEY = "sRnw8yFV0oIDOWYTh0OeR0dGYslIXYbKmUm3ZvAMvqaMOqcT"
-        self.XIVELY_FEED_ID = 397908926
+        self.XIVELY_API_KEY = ""
+        self.XIVELY_FEED_ID = 
         self.feed = None
         self.DEBUG = False
 
